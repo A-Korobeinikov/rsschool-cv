@@ -7,3 +7,20 @@
 * [Skype](https://join.skype.com/invite/mqdjF0HMgJjJ)
 * [Telegram](https://t.me/an_korobeinikov)
 ***
+
+## О себе
+
+***
+
+### Навыки
+1. Базовое владение ***HTML/HTML5, CSS/CSS3;***
+2. Базовое понятие ***JavaScript;***
+    * Основы JavaScript;
+    * Типы данных и их методы;
+    * Объекты;
+    * DOM;
+3. Работа с системой контроля версий ***GIT;***
+
+### Пример кода
+[Конвертер валют, код](https://github.com/A-Korobeinikov/exchange)  
+[Конвертер валют, страничка для теста](https://a-korobeinikov.github.io/exchange/)
